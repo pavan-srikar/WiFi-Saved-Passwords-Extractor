@@ -19,5 +19,13 @@ Just download and run the .cmd file
 3. Open Terminal and navigate to the directory where you saved the script.
 4. Make the script executable by running:
    ```bash
-   chmod +x show_wifi_passwords_mac.sh
+   chmod +x GetWifiPasswords_mac.sh
 
+
+### Linux (i use arch btw)
+1. Download GetWifiPasswords_linux.sh
+3. Open Terminal and navigate to the directory where you saved the script.
+4. Make the script executable by running:
+   ```bash
+   chmod +x GetWifiPasswords_linux.sh
+   sudo ./GetWifiPasswords_linux
